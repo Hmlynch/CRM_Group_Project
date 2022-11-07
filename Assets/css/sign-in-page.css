@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+/* HERO START*/
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.hero-left{
+    color: white;
+    width: 800px;
+    
+}
+
+
+.hero-left-content {
+    position: absolute;
+    top: 16%;
+    left: 23%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 800px;
+    font-size: 15px;
+    text-align: center;
+    height: 150px;
+
+}
+
+.background-hero{
+    width: 915px;
+    height: 715px;
+}
+
+.rocket-image{
+    position: absolute;
+    top: 57%;
+    left: 27.5%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+
+}
+
+.sign-up-btn {
+    border: 2px solid white;
+    color: white;
+    width: 200px;
+    border-radius: 30px;
+}
+
+
+.hero-right{
+   height: 710px;
+   width: 500px;
+   text-align: center;
+   margin-right: 50px;
+}
+.hero-right h1{
+    margin-top: 80px;
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 0px;
+}
+
+#name{
+    width: 400px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 60px;
+}
+
+#name-pic{
+    position: absolute;
+    top: 29%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    width: 18px;
+}
+
+#email{
+    width: 400px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 60px;
+    margin-top: 70px;
+}
+
+#mail-pic{
+    position: absolute;
+    top: 45.5%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+}
+
+#password{
+    width: 400px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 60px;
+    margin-top: 70px;
+}
+
+#lock-pic{
+    position: absolute;
+    top: 62.5%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    width: 35px;
+}
+
+#sign-in-btn{
+    border: rgb(#0314FE);
+    background-color: #0314FE;
+    color: white;   
+    
+    
+}
+
+.hero-right p{
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.socials-ellipse{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.facebook{
+    width: 20px;
+    height: 35px;
+}
+
+.twitter{
+    width: 35px;
+    height: 35px;
+}
+
+.facebook{
+    position: absolute;
+    top: 83.5%;
+    left: 73.7%;
+    transform: translate(-50%, -50%);
+}
+
+.twitter{
+    position: absolute;
+    top: 83.5%;
+    left: 86.5%;
+    transform: translate(-50%, -50%);
+}
+
+/* HERO END */
+/* HERO RIGHT START */
+
+/* HERO RIGHT */
+
+
+
+
+

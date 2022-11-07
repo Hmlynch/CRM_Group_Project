@@ -1,0 +1,23 @@
+
+
+h1{
+    text-align: center;
+    margin-top: 150px;
+    font-family: "Roboto";
+    font-size: 50px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.body-text{
+    height: 300px;
+    width: 500px;
+    margin-left: 500px;
+    /* border-color: 3px solid rgb(#0314FE); */
+    /* need help with border */
+}
