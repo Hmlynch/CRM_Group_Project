@@ -20,3 +20,5 @@ O'Ryan:
 -Made Sign-In & Sign-Up forms mobile accessible
 -Added a "success" form to sign-up page
 -Worked with the group to link the pages together
+
+*We also didn't use any bootstrap to complete this project. We wanted to challenge ourselves and practice the knowleddge we had learned thus far to create a website without taking shortcuts.
